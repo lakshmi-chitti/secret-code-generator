@@ -1,5 +1,4 @@
-# Secret Code Generator using Caesar Cipher
-# Author: Your Name
+# Secret Code Generator................
 
 # Function to encode a message
 def encode_message(message, shift):
@@ -58,3 +57,4 @@ def menu():
 # Run the program
 
 menu()
+
