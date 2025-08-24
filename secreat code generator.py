@@ -49,11 +49,12 @@ def menu():
                 print("Please enter a valid shift number.")
 
         elif choice == "3":
-            print("Exiting... Goodbye! 👋")
+            print("Exiting... Goodbye! ")
             break
         else:
             print(" Invalid choice. Please try again.")
 
 
 # Run the program
+
 menu()
